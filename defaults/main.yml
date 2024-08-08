@@ -1,2 +1,3 @@
 ---
 # defaults file for correcthorse.repo-aeeaan
+repo_aeeaan_install: true
